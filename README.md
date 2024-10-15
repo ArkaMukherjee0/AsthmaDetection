@@ -6,11 +6,15 @@ This repository contains a Python script for predicting asthma disease using var
 
 ## 💾 **Dataset**
 The dataset used for this project is stored in `asthma_disease_data.csv`, which includes various patient attributes such as demographics, medical history, environmental exposures, and lung function measurements.
+* Asthma Disease Dataset: [https://www.kaggle.com/datasets/rabieelkharoua/asthma-disease-dataset/data](https://www.kaggle.com/datasets/rabieelkharoua/asthma-disease-dataset/data)
 
 ## :bar_chart: **Exploratory Data Analysis**
 
 *  Includes analysis of patient demographics, medical history, and environmental exposures.
 *  Visualizations using histograms, correlation heatmaps, and countplots.
+![Correlation Heatmap](image_2024-10-15_103049488.png)
+
+This heatmap shows the correlation between different numerical features in the dataset, revealing potential relationships and multicollinearity.
 
 ## :robot: **Models**
 The script explores a range of machine-learning models for asthma prediction, including:
