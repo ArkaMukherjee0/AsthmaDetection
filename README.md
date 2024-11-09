@@ -4,7 +4,7 @@ Pre-processing and ensemble techniques such as PCA and bagging were utilized to 
 
 This repository contains a Python script for predicting asthma disease using various machine-learning models. The script performs data preprocessing, exploratory data analysis, model training, and evaluation.
 
-
+Our pre-printed paper can be found here: [HAL open-source](https://hal.science/hal-04731433). It has been accepted at AESPC 2024.
 
 ## 💾 **Dataset**
 The dataset used for this project is stored in `asthma_disease_data.csv`, which includes various patient attributes such as demographics, medical history, environmental exposures, and lung function measurements.
